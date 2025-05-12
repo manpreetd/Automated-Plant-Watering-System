@@ -4,4 +4,4 @@ This project presents an automated plant watering system built using an Arduino 
 
 Video Demo Of Code: 
 
-[https://youtube.com/shorts/1goNVuKwgsc](url)
+[https://youtube.com/shorts/1goNVuKwgsc](https://youtube.com/shorts/1goNVuKwgsc)
